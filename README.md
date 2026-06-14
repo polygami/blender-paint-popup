@@ -12,7 +12,11 @@ Blender 5.1 or later
 
 1. Download `paint_palette_popup.py`
 2. In Blender, go to **Edit > Preferences > Add-ons**
-3. Click **Install**, select the downloaded file, and enable the addon
+3. Click the dropdown arrow in the top-right corner of the Add-ons panel and choose **Install from Disk...**
+4. Navigate to the downloaded file, select it, and click **Install from Disk**
+5. Enable the addon by ticking the checkbox next to **Paint Palette Popup**
+
+Blender copies the file into your user scripts folder automatically — no manual file placement needed.
 
 ## Usage
 
